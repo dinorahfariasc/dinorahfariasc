@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and analystics
 - 💞️ I’m looking to collaborate on any projects that i may have interested
 - 📫 How to reach me? dm me on insta @dinorahfarias_
-- https://gist.github.com/dinorahfariasc
+
 
 <!---
 dinorahfariasc/dinorahfariasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
