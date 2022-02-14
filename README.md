@@ -1,6 +1,6 @@
 - 👋 Hi, I’m dinorah
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python and analytics
+- 👀 I’m interested in mobile dev and ds
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on any projects that i may have interested
 - 📫 How to reach me? dm me on insta @dinorahfarias_
 
