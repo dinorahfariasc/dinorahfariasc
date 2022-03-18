@@ -4,8 +4,9 @@
 
 
 ![Dinorah's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinorahfariasc&show_icons=true&theme=monokai)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact)](https://github.com/dinorahfariasc/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact)](https://github.com/dinorahfariasc/github-readme-stats)
 
+--->
 
 <!---
 dinorahfariasc/dinorahfariasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
