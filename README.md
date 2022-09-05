@@ -5,6 +5,7 @@
 <div align="center">
   <a href="https://github.com/dinorahfariasc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinorahfariasc&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  ![dinorah's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinorahfariasc&show_icons=true)
     
     
 </div>
