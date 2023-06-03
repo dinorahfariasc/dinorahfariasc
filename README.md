@@ -1,6 +1,6 @@
 - 👋 Hi, I’m dinorah
 - 👀 I’m interested in data science
-- 🌱 I’m currently a bachelor of information technology at IMD - UFRN
+- 🌱 I’m currently a undergraduate student of information technology at IMD - UFRN
 
 <div align="center">
   <a href="https://github.com/dinorahfariasc">
