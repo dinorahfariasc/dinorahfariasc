@@ -5,8 +5,8 @@
 <div align="center">
   <a href="https://github.com/dinorahfariasc">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinorahfariasc&show_icons=true&theme=monokai"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dinorahfariasc&show_icons=true&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact&langs_count=7&theme=monokai"/>
     
     
 </div>
