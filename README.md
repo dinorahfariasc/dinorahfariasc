@@ -27,8 +27,7 @@
   <a href = "mailto:dinorahfarias@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dinorah-farias-a38182207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-[![dinorah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dinorahfariasc&bg_color=ffffff&color=821f9e&line=ff7033&point=df2063&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![dinorah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dinorahfariasc&bg_color=201d1d&color=f7e4f0&line=ff7033&point=df2063&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
  <br>
 </div>
