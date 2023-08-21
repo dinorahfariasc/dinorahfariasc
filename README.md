@@ -1,4 +1,4 @@
-- 👋 Hi, I’m dinorah
+- 👋 Hi, I’m Dinorah
 - 👀 I’m interested in data science
 - 🌱 I’m currently a undergraduate student of information technology at IMD - UFRN
 
