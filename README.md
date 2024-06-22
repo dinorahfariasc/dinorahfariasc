@@ -16,7 +16,7 @@
   <img align="center" alt="jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="SciKit-Learn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/scikitlearn-original.svg">
+  <img align="center" alt="SciKit-Learn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
 
   
 </div>
