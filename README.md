@@ -36,12 +36,5 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact)](https://github.com/dinorahfariasc/github-readme-stats)
-
-<!---
-dinorahfariasc/dinorahfariasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
 [![dinorah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dinorahfariasc&bg_color=201d1d&color=f7e4f0&line=ff7033&point=df2063&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
---->
