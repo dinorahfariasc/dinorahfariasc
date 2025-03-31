@@ -11,10 +11,10 @@
 </a>
 <p align="center">
   <a href="https://github.com/dinorahfariasc">
-    <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=material_palenight&utcOffset=-3&card_width=320"/>
+    <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=material_palenight&utcOffset=-3&card_width=250"/>
   </a>
   <a href="https://github.com/dinorahfariasc">
-    <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinorahfariasc&theme=material_palenight&card_width=320" />
+    <img height=150 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinorahfariasc&theme=material_palenight&card_width=250" />
   </a>
 </p>
 
