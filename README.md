@@ -10,10 +10,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact&theme=material-palenight&hide=Jupyter%20Notebook,C%2B%2B&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/dinorahfariasc">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=material_palenight&utcOffset=-3&card_width=320"/>
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=material_palenight&utcOffset=-3&card_width=120"/>
 </a>
 <a href="https://github.com/dinorahfariasc">
-  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinorahfariasc&theme=material_palenight&card_width=320" />
+  <img height=200 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinorahfariasc&theme=material_palenight&card_width=120" />
 </a>
 
 
