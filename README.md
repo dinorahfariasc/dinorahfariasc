@@ -17,7 +17,7 @@
 <a href="https://skillicons.dev" >
   <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,html,css,javascript,cs,php,laravel,postgres,docker,git,github"/>
 </a>
-<\div>
+</div>
 
 
 
