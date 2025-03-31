@@ -42,5 +42,13 @@
 
 
 
-[![dinorah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dinorahfariasc&bg_color=201d1d&color=f7e4f0&line=ff7033&point=df2063&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ |[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinorahfariasc&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+<div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cs,php,react,laravel,postgres,mysql,docker,linux,git,unity" />
+</a>
+
+<div align="center">
 
