@@ -4,7 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/dinorahfariasc">
-    
+  
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dinorahfariasc&theme=material_palenight"  
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dinorahfariasc&show_icons=true&theme=material_palenight"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact&langs_count=7&theme=material_palenight"/>
 </div>
