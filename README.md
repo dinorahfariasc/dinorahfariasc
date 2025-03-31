@@ -7,8 +7,8 @@
   
   ![Dinorah's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinorahfariasc&show_icons=true&theme=material-palenight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact&theme=material-palenight)
-  [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=material_palenight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinorahfariasc&theme=material_palenight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=material_palenight&utcOffset=-3)
+  ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinorahfariasc&theme=material_palenight)
 
 <div align="center" >
 <a href="https://skillicons.dev" >
