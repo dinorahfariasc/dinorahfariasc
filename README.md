@@ -5,12 +5,12 @@
 <div align="center">
   <a href="https://github.com/dinorahfariasc">
     
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dinorahfariasc&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dinorahfariasc&show_icons=true&theme=nord_dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact&langs_count=7&theme=nord_dark"/>
 </div>
 
 
- |[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=default&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinorahfariasc&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ |[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=nord_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinorahfariasc&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 <div align="center" >
