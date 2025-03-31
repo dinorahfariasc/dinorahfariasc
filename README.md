@@ -20,7 +20,7 @@
 <br>
 <div align="center" >
 <a href="https://skillicons.dev" >
-  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,anaconda,html,css,javascript,cs,php,laravel,postgres,docker,git,github"/>
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,anaconda,php,laravel,postgres,html,css,javascript,cpp,c,docker,git,github"/>
 </a>
 </div>
 
