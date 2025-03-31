@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dinorahfariasc&show_icons=true&theme=material-palenight&rank_icon=github"/>
 </a>
 <a href="https://github.com/dinorahfariasc">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact&theme=material-palenight&hide=Jupyter%20Notebook&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinorahfariasc&layout=compact&theme=material-palenight&hide=Jupyter%20Notebook,cp&langs_count=8&card_width=320" />
 </a>
   
   ![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=material_palenight&utcOffset=-3)
