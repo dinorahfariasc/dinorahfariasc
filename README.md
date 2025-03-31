@@ -42,7 +42,7 @@
 
 
 
- |[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinorahfariasc&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ |[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinorahfariasc&theme=monokai&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinorahfariasc&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 <div align="center" >
