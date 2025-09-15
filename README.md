@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Dinorah
-- 👀 I’m interested in AI and data science
-- 🌱 I’m currently a undergraduate student of information technology at IMD - UFRN
+Hii i'm dinorah, dina for short, im a AI developer with a strong brackground on data science. currently studying a bachelor's degree in information technology at IMD/UFRN, and i love films.
 
 <div align="center">
   <a href="https://github.com/dinorahfariasc">
